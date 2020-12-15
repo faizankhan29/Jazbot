@@ -1,1 +1,1 @@
-# Jazzbot
+# Jazbot
